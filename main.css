@@ -134,3 +134,11 @@ font-size:16px
 .first-col {
   border-right: 1px solid #eee;
 }
+
+
+#footer {
+  background-color: #949494;
+  padding: 30px 0;
+  margin-top: 20px;
+  color: #fff;
+}

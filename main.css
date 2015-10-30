@@ -4,9 +4,11 @@ font-family:'Arial',serif
 
 h1 {
   font-size: 24px;
+   font-weight: bold;
 }
 h2 {
   font-size: 20px;
+  font-weight: bold;
 }
 h3 {
   font-size: 18px;
@@ -141,4 +143,27 @@ font-size:16px
   padding: 30px 0;
   margin-top: 20px;
   color: #fff;
+}
+#footer .footer-left a{
+  color: #fff;
+}
+
+.copyright a {
+  color: #fff;
+}
+
+.fb {
+  color: #3b589e
+}
+.tw {
+  color: #27a9e1
+}
+.pin {
+  color: #c91325
+}
+.gpl{
+  color: #d44536
+}
+.yt{
+  color: #c91425
 }
